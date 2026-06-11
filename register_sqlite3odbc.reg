@@ -1,0 +1,23 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ODBC\ODBCINST.INI\SQLite3 SQLCipher Driver]
+"Driver"="C:\projetos\sqliteodbc_sqlcipher\sqliteodbc-0.99991\sqlite3odbc.dll"
+"Setup"="C:\projetos\sqliteodbc_sqlcipher\sqliteodbc-0.99991\sqlite3odbc.dll"
+"APILevel"="2"
+"ConnectFunctions"="YYY"
+"DriverODBCVer"="03.80"
+"FileUsage"="1"
+"SQLLevel"="1"
+"UsageCount"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ODBC\ODBCINST.INI\ODBC Drivers]
+"SQLite3 ODBC Driver"="Installed"
+
+[HKEY_CURRENT_USER\SOFTWARE\ODBC\ODBC.INI\SSQLite3_SQLCipher_Prod]
+"Driver"="C:\projetos\sqliteodbc_sqlcipher\sqliteodbc-0.99991\sqlite3odbc.dll"
+"Database"="C:\Users\saulogoncalves\Desktop\BDGeral_0\SControle_1.db"
+"Password"="teste"
+
+[HKEY_CURRENT_USER\SOFTWARE\ODBC\ODBC.INI\ODBC Data Sources]
+"SQLite3_SQLCipher"="SQLite3 ODBC Driver"
+
